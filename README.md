@@ -7,11 +7,11 @@ git in vs code tutorial video: https://www.youtube.com/watch?v=i_23KUAEtUM
 ## How to get started with git cli
 
 1. Open cmd and clone repository to code on your desktop
-git clone https://github.com/LiewZhengXian/Frontend-Assignment.git
+git clone https://github.com/LiewZhengXian/UCCD2063-Assignment.git
 
 2. Go to the directory with .git file
 ```bash
-cd Frontend-Assignment
+cd UCCD2063-Assignment
 ```
 3. Git add to stage all the files in your directory before committing
 ```bash
